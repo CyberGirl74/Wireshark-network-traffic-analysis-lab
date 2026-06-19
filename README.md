@@ -50,6 +50,8 @@ Examples included:
 - AirPlay service discovery
 - Local device announcements
 
+During analysis, my Smart TV generated frequent mDNS broadcasts while advertising AirPlay and local network services.
+
 ### TLS Traffic
 
 Captured encrypted TLS traffic between local devices and external services.
